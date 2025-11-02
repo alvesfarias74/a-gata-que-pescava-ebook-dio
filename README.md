@@ -17,7 +17,7 @@ O eBook completo está disponível na pasta `/ebook`.
 
 ## 🧠 Roteiros
 
-Roteiro para os pronpts [aqui]([link-do-artigo](https://docs.google.com/document/d/1tTbaO36XLOcg3AZZVc-29L-UQqH2AmT9wXtYzfhYJYg/edit?usp=sharing)).
+Roteiro para os pronpts [aqui]([https://docs.google.com/document/d/1tTbaO36XLOcg3AZZVc-29L-UQqH2AmT9wXtYzfhYJYg/edit?usp=sharing.]).
 
 ## 🛠️ Como replicar
 
