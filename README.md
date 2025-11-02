@@ -8,19 +8,16 @@ O texto foi inteiramente idealizado pelo autor, inspirado por memórias afetivas
 
 ## 🎨 Ilustrações
 
-As imagens foram geradas com **Microsoft Copilot**, que traduziu visualmente cada cena do conto. O recurso **MidJourney** não foi utilizado por indisponibilidade da versão gratuita via Discord.
+As imagens foram geradas com **Microsoft Copilot**, que traduziu visualmente cada cena do conto estão disponíveis na pasta `/images`.
+O recurso **MidJourney** não foi utilizado por indisponibilidade da versão gratuita via Discord.
 
 ## 📘 Ebook
 
 O eBook completo está disponível na pasta `/ebook`.
 
-## 🧠 Prompts utilizados
+## 🧠 Roteiros
 
-Todos os prompts de texto e imagem estão organizados na pasta `/prompts`.
-
-## 📎 Artigo
-
-Leia o artigo sobre o processo criativo [aqui](link-do-artigo).
+Roteiro para os pronpts [aqui]([link-do-artigo](https://docs.google.com/document/d/1tTbaO36XLOcg3AZZVc-29L-UQqH2AmT9wXtYzfhYJYg/edit?usp=sharing)).
 
 ## 🛠️ Como replicar
 
